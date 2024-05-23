@@ -1,0 +1,27 @@
+# def bool_to_word(boolean):
+#     if boolean == True:
+#         return "Yes"
+#     else:
+#         return "No"
+
+
+# def opposite(number):
+#     return -number 
+
+
+# def make_negative(number):
+#     if number > 0:
+#         return -number
+#     else:
+#         return number
+
+
+# def multiply(a, b):
+#     return a * b
+
+
+# def even_or_odd(number):
+#     if number % 2 == 0:
+#         return"Even"
+#     else:
+#         return"Odd"
