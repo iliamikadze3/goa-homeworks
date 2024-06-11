@@ -1,0 +1,14 @@
+tr {
+    text-align: center;
+        background-color:rgba(80, 185, 255, 0.664)
+}
+
+p {
+    text-align: center;
+    color:green;
+}
+
+button {
+    color: black(32, 84, 255, 0);
+    background-color: greenyellow;
+}

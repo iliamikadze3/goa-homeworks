@@ -1,0 +1,17 @@
+h1 {
+    text-shadow: 10px 15px 7px green;
+    font-size: 50px;
+    text-align: center; 
+}
+
+button {
+    background-color: greenyellow;
+    color: green;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+p {
+    text-shadow: 3px 3px 16px;
+    font-size: 35px;
+}
